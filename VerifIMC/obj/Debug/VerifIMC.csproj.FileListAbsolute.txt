@@ -1,0 +1,7 @@
+C:\Users\55169\source\repos\EX1\VerifIMC\bin\Debug\VerifIMC.exe.config
+C:\Users\55169\source\repos\EX1\VerifIMC\bin\Debug\VerifIMC.exe
+C:\Users\55169\source\repos\EX1\VerifIMC\bin\Debug\VerifIMC.pdb
+C:\Users\55169\source\repos\EX1\VerifIMC\obj\Debug\VerifIMC.csprojAssemblyReference.cache
+C:\Users\55169\source\repos\EX1\VerifIMC\obj\Debug\VerifIMC.csproj.CoreCompileInputs.cache
+C:\Users\55169\source\repos\EX1\VerifIMC\obj\Debug\VerifIMC.exe
+C:\Users\55169\source\repos\EX1\VerifIMC\obj\Debug\VerifIMC.pdb
